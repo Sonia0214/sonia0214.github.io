@@ -30,6 +30,5 @@ I'm a passionate Python and QA automation student with a love for coding and lea
 ## Links
 
 - [GitHub](https://github.com/sonialyc)
-- [LinkedIn](https://www.linkedin.com/in/)
 
 © 2023 Sonialyc
